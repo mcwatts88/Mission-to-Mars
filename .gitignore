@@ -1,5 +1,7 @@
-#Ignored notebooks
+#Ignored notebooks/files in repo
 Practice.ipynb
+index_original.html
+Mission_to_Mars_Challenge_starter_code.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
